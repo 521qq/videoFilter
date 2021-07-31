@@ -58,6 +58,7 @@ onMounted(() => {
     })
 })
 </script>
+
 <style>
 .prompt {
   width: 500px;
